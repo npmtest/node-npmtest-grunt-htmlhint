@@ -1,13 +1,13 @@
 <svg height="158" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="158" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-18 06:30:08 +0000     9797 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-18 06:30:08 +0000      939 bytes  Gruntfile.js</tspan>
-<tspan x="10" y="58">  2.  2017-04-18 06:30:08 +0000     1076 bytes  LICENSE-MIT</tspan>
-<tspan x="10" y="74">  3.  2017-04-18 06:30:08 +0000     2667 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-18 06:30:08 +0000     2673 bytes  package.json</tspan>
-<tspan x="10" y="106">  5.  2017-04-18 06:30:08 +0000     2016 bytes  tasks/htmlhint.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-18 06:30:08 +0000      299 bytes  test/fixtures/invalid.html</tspan>
-<tspan x="10" y="138">  7.  2017-04-18 06:30:08 +0000      127 bytes  test/fixtures/valid.html</tspan>
+<tspan x="10" y="26">  0.  2017-04-18 06:31:13 +0000     9797 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 06:31:13 +0000      939 bytes  Gruntfile.js</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 06:31:13 +0000     1076 bytes  LICENSE-MIT</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 06:31:13 +0000     2667 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 06:31:13 +0000     2673 bytes  package.json</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 06:31:13 +0000     2016 bytes  tasks/htmlhint.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 06:31:13 +0000      299 bytes  test/fixtures/invalid.html</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 06:31:13 +0000      127 bytes  test/fixtures/valid.html</tspan>
 </text>
 </svg>
