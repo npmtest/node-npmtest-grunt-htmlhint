@@ -1,6 +1,6 @@
 # npmtest-grunt-htmlhint
 
-#### test coverage for  [grunt-htmlhint (v0.9.13)](https://github.com/yaniswang/grunt-htmlhint)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-htmlhint.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-htmlhint) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-htmlhint.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-htmlhint)
+#### basic test coverage for  [grunt-htmlhint (v0.9.13)](https://github.com/yaniswang/grunt-htmlhint)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-htmlhint.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-htmlhint) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-htmlhint.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-htmlhint)
 
 #### Validate html files with htmlhint.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-grunt-htmlhint/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-grunt-htmlhint/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-grunt-htmlhint/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-grunt-htmlhint/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-grunt-htmlhint/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-grunt-htmlhint/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-grunt-htmlhint/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-grunt-htmlhint/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-grunt-htmlhint/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-grunt-htmlhint/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-grunt-htmlhint/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-grunt-htmlhint/build/coverage.html/index.html)
 
@@ -88,7 +88,8 @@
     "scripts": {
         "test": "grunt --force"
     },
-    "version": "0.9.13"
+    "version": "0.9.13",
+    "bin": {}
 }
 ```
 
